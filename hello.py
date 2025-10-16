@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Hi! Omotola Ogunsola")
+print("Hi! Omotola E. Ogunsola")
