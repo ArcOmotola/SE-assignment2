@@ -27,6 +27,12 @@ Run the greeting program: python hello.py
 Expected output: Hello, World!
                  Heyyy! Omotola E. Ogunsola
 
+## Contact & Support
+
+- Repo owner: ArcOmotola
+- GitHub: https://github.com/ArcOmotola/SE-assignment2
+
+If you find a bug or want to contribute, please open an issue or submit a pull request.
 
 
 
